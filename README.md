@@ -54,23 +54,26 @@ php artisan serve
 ngrok http 8000 #(or the used port number) 
 ```
 ## Screenshots
-<div align="center" >  
-<div align="center" >  
-
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/577a5a07-3890-4974-834b-95dc2b9f5311" height="450" />
-<br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/bb67cdd9-b989-4df7-910e-e52d683bfb0f" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/4fe2a3b2-8eb6-4fd1-8a34-de00493cb6ad" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/ab4b38ce-18e7-40a5-bd4c-e6bfb9d47dc0" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/84b77a34-1561-4e07-a7f9-c73e2d3f87ef" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/d4f84aa4-a947-480c-978d-c0b949fefea8" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/ea39aaba-fb8e-4fb0-9a3b-87682d8d6a4b" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/6fffa2f0-9b2f-4b93-af58-1e9b2a92a38b" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/ce6adcd6-4eb5-402e-adc6-07bfe8211388" height="450" /><br>
-<img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/2bdb36ba-89d3-4969-9511-6f38aa11efbe" height="450" />
-
-</div>
-
+<div align="center">
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/d2c7de09-b14f-46c4-b870-605211e2a229" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/6d82cf5d-d1ae-447e-933d-78dbe463d9e7" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/e0d43de5-2a3c-4313-9c1f-c41708b88c93" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/5e6b2154-2562-43b0-91ac-007ed02d5da5" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/820a560a-13ed-4427-a9b7-8cee651fdc3a" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/91663349-9ecd-4f9a-9a30-36d82c627570" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/db92afc6-d2b3-4d33-9f92-6e2f7b69527b" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/366bcc51-715b-4156-972d-1f024a7b0612" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/bb047556-8315-4631-bb03-7b04b380f985" width="600px">
+  <br>
+  <img src="https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/06437959-71d0-4091-af59-6ab335aecaca" width="600px">
 </div>
 
 ## Demo
