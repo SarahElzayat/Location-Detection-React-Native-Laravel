@@ -80,8 +80,7 @@ ngrok http 8000 #(or the used port number)
 ## Demo
 
 
-https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/da72a79b-9697-40c5-88bf-7029504deeae
-
+https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/c0b4a52c-0da1-4a15-a146-6f6e3cd862cc
 
 ## License
 
