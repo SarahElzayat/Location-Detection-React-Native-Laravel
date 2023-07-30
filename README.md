@@ -54,9 +54,9 @@ php artisan serve
 ngrok http 8000 #(or the used port number) 
 ```
 ## Screenshots
-<div align="center" height = 200px>  
+<div align="center" >  
 
-![1](https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/577a5a07-3890-4974-834b-95dc2b9f5311)
+![1](https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/577a5a07-3890-4974-834b-95dc2b9f5311){height: 200px}
 ![2](https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/bb67cdd9-b989-4df7-910e-e52d683bfb0f)
 ![3](https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/4fe2a3b2-8eb6-4fd1-8a34-de00493cb6ad)
 ![4](https://github.com/SarahElzayat/Location-Detection-React-Native-Laravel/assets/76779284/ab4b38ce-18e7-40a5-bd4c-e6bfb9d47dc0)
